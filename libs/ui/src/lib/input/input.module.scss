@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+
+  label {
+    letter-spacing: -0.025em;
+  }
+
+  input {
+    padding: 1rem;
+    font-size: 1rem;
+    border-bottom: 1px solid black;
+  }
+}
